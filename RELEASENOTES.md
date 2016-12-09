@@ -21,6 +21,11 @@
 Release Notes
 =============
 
+0.3.0
+------
+
+Added custom icons
+
 0.2.17
 ------
 
