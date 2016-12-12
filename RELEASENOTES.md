@@ -21,6 +21,11 @@
 Release Notes
 =============
 
+0.3.2
+------
+
+Move the icons to the proper location
+
 0.3.1
 ------
 
