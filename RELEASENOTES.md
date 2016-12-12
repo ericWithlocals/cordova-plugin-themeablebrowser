@@ -21,6 +21,11 @@
 Release Notes
 =============
 
+0.3.6
+------
+
+better home icons
+
 0.3.5
 ------
 
