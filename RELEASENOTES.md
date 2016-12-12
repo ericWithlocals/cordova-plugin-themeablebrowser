@@ -21,6 +21,11 @@
 Release Notes
 =============
 
+0.3.1
+------
+
+Custom icons update
+
 0.3.0
 ------
 
