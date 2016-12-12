@@ -49,6 +49,13 @@
         <source-file src="src/android/ThemeableBrowserDialog.java" target-dir="src/com/initialxy/cordova/themeablebrowser" />
         <source-file src="src/android/InAppChromeClient.java" target-dir="src/com/initialxy/cordova/themeablebrowser" />
         <source-file src="src/android/ThemeableBrowserUnmarshaller.java" target-dir="src/com/initialxy/cordova/themeablebrowser" />
+
+        <resource-file src="src/android/res/drawable-xhdpi/home.png" target="res/drawable-xhdpi/home.png" />
+        <resource-file src="src/android/res/drawable-xhdpi/home_pressed.png" target="res/drawable-xhdpi/home_pressed.png" />
+        <resource-file src="src/android/res/drawable-xhdpi/close_cross.png" target="res/drawable-xhdpi/close_cross.png" />
+        <resource-file src="src/android/res/drawable-xhdpi/close_cross_pressed.png" target="res/drawable-xhdpi/close_cross_pressed.png" />
+        <resource-file src="src/android/res/drawable-xhdpi/arrow_back.png" target="res/drawable-xhdpi/arrow_back.png" />
+        <resource-file src="src/android/res/drawable-xhdpi/arrow_back_pressed.png" target="res/drawable-xhdpi/arrow_back_pressed.png" />
     </platform>
 
     <!-- ios -->
@@ -66,5 +73,12 @@
         <source-file src="src/ios/CDVThemeableBrowser.m" />
 
         <framework src="CoreGraphics.framework" />
+
+        <resource-file src="src/ios/Resources/home@2x.png" target="Resources/home@2x.png" />
+        <resource-file src="src/ios/Resources/home_pressed@2x.png" target="Resources/home_pressed@2x.png" />
+        <resource-file src="src/ios/Resources/close_cross@2x.png" target="Resources/close_cross@2x.png" />
+        <resource-file src="src/ios/Resources/close_cross_pressed@2x.png" target="Resources/close_cross_pressed@2x.png" />
+        <resource-file src="src/ios/Resources/arrow_back@2x.png" target="Resources/arrow_back@2x.png" />
+        <resource-file src="src/ios/Resources/arrow_back_pressed@2x.png" target="Resources/arrow_back_pressed@2x.png" />
     </platform>
 </plugin>
