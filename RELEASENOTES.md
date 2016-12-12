@@ -21,6 +21,11 @@
 Release Notes
 =============
 
+0.3.5
+------
+
+added white navbar with shadow background image (now for real)
+
 0.3.4
 ------
 
