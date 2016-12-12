@@ -24,6 +24,11 @@ Release Notes
 0.3.2
 ------
 
+Added all the icons to the plugin.xml and changed the order
+
+0.3.2
+------
+
 Move the icons to the proper location
 
 0.3.1
