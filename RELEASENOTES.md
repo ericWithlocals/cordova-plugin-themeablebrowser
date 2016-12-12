@@ -21,7 +21,12 @@
 Release Notes
 =============
 
-0.3.2
+0.3.4
+------
+
+added white navbar with shadow background image
+
+0.3.3
 ------
 
 Added all the icons to the plugin.xml and changed the order
