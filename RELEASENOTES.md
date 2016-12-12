@@ -21,6 +21,11 @@
 Release Notes
 =============
 
+0.3.7
+------
+
+Improved the homebutton a bit more
+
 0.3.6
 ------
 
