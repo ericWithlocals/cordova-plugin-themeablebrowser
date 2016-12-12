@@ -21,7 +21,7 @@
 <plugin
       xmlns="http://apache.org/cordova/ns/plugins/1.0"
       id="cordova-plugin-themeablebrowser"
-      version="0.3.4">
+      version="0.3.5">
 
     <name>ThemeableBrowser</name>
     <description>Cordova ThemeableBrowser Plugin</description>
@@ -50,6 +50,7 @@
         <resource-file src="src/android/res/drawable-xhdpi/close_cross_pressed.png" target="res/drawable-xhdpi/close_cross_pressed.png" />
         <resource-file src="src/android/res/drawable-xhdpi/arrow_back.png" target="res/drawable-xhdpi/arrow_back.png" />
         <resource-file src="src/android/res/drawable-xhdpi/arrow_back_pressed.png" target="res/drawable-xhdpi/arrow_back_pressed.png" />
+        <resource-file src="src/android/res/drawable-xhdpi/nav_with_shadow.png" target="res/drawable-xhdpi/nav_with_shadow.png" />
 
         <js-module src="www/themeablebrowser.js" name="themeablebrowser">
             <clobbers target="cordova.ThemeableBrowser" />
@@ -82,6 +83,7 @@
         <resource-file src="src/ios/Resources/close_cross_pressed@2x.png" target="Resources/close_cross_pressed@2x.png" />
         <resource-file src="src/ios/Resources/arrow_back@2x.png" target="Resources/arrow_back@2x.png" />
         <resource-file src="src/ios/Resources/arrow_back_pressed@2x.png" target="Resources/arrow_back_pressed@2x.png" />
+        <resource-file src="src/ios/Resources/nav_with_shadow@2x.png" target="Resources/nav_with_shadow@2x.png" />
 
         <js-module src="www/themeablebrowser.js" name="themeablebrowser">
             <clobbers target="cordova.ThemeableBrowser" />
